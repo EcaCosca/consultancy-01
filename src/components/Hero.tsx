@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="max-w-7xl mx-auto text-center">
           <div className="mb-8 inline-block">
             <span className="px-4 py-2 bg-blue-600/30 backdrop-blur-sm border border-blue-400/50 rounded-full text-blue-200 dark:text-blue-100 text-sm font-semibold">
-              🌎 Connecting South American Talent with US Markets
+              🌎 Connecting Talent with Opportunity
             </span>
           </div>
           

@@ -13,12 +13,12 @@ function App() {
     <div className="min-h-screen bg-white dark:bg-slate-950 transition-colors">
       <Navbar />
       <Hero />
-      <Services />
-      <WhyUs />
-      <Process />
-      <Testimonials />
-      <CTA />
-      <Footer />
+      {/* <Services /> */}
+      {/* <WhyUs /> */}
+      {/* <Process /> */}
+      {/* <Testimonials /> */}
+      {/* <CTA /> */}
+      {/* <Footer /> */}
     </div>
   )
 }
