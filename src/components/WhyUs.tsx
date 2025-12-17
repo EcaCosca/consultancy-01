@@ -22,8 +22,8 @@ export default function WhyUs() {
     },
     {
       icon: '🛡️',
-      title: 'Risk-Free Trial Period',
-      description: 'Not satisfied? We offer a 2-week trial period with no questions asked replacement guarantee to ensure the perfect fit.'
+      title: 'Trial Period',
+      description: 'We offer a 2-week trial period with no questions asked replacement guarantee to ensure the perfect fit.'
     },
     {
       icon: '🤝',

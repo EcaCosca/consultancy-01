@@ -19,7 +19,7 @@ export default function Hero() {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-200 mb-12 max-w-4xl mx-auto leading-relaxed">
-            Access top-tier developers from South America. We match your needs with exceptional talent 
+            Access top-tier developers worldwide. We match your needs with exceptional talent 
             and deliver comprehensive IT solutions that drive your business forward.
           </p>
           
@@ -38,8 +38,8 @@ export default function Hero() {
           {/* Stats Bar */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-20 max-w-5xl mx-auto">
             {[
-              { value: '500+', label: 'Developers Placed' },
-              { value: '100+', label: 'Happy Clients' },
+              { value: '85', label: 'Developers Placed' },
+              { value: '35', label: 'Happy Clients' },
               { value: '95%', label: 'Client Retention' },
               { value: '24/7', label: 'Support Available' }
             ].map((stat, index) => (

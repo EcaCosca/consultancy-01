@@ -31,9 +31,9 @@ export default function Footer() {
           <div>
             <h4 className="text-gray-900 dark:text-white font-bold mb-4">Connect</h4>
             <ul className="space-y-2">
-              <li><a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">LinkedIn</a></li>
-              <li><a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Twitter</a></li>
-              <li><a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Facebook</a></li>
+              <li><a href="https://www.linkedin.com/company/panaceaissolutions/" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">LinkedIn</a></li>
+              {/* <li><a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Twitter</a></li> */}
+              {/* <li><a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Facebook</a></li> */}
               <li><a href="mailto:info@panaceaitsolutions.com" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Contact Us</a></li>
             </ul>
           </div>
