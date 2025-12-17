@@ -2,21 +2,21 @@ export default function Testimonials() {
   const testimonials = [
     {
       quote: "Panacea IT found us three exceptional React developers within a week. They integrated seamlessly with our team and helped us launch on time.",
-      author: "Sarah Johnson",
+      author: "Pier Dupont",
       role: "CTO, FinTech Startup",
-      company: "PayFlow Inc."
+      company: "Rack"
     },
     {
       quote: "The quality of developers is outstanding. We've been working with Panacea for 2 years and have scaled from 2 to 15 developers without any hiccups.",
-      author: "Michael Chen",
+      author: "Michael Johnson",
       role: "VP of Engineering",
-      company: "HealthTech Solutions"
+      company: "Ambar"
     },
     {
       quote: "Best decision we made. Their end-to-end solution delivered our mobile app under budget and ahead of schedule. Highly recommend!",
       author: "Jessica Martinez",
       role: "Product Manager",
-      company: "EduLearn Platform"
+      company: "Education Plus"
     }
   ]
 
